@@ -1,3 +1,7 @@
+0
+wget https://raw.githubusercontent.com/xukejing/LeezRK3399/master/openmpi-test/doubleMatrixMultiplication.cpp
+
+
 1
 apt-get install openmpi-bin libopenmpi-dev
 
